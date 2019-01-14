@@ -8,7 +8,7 @@ public class Main2 {
         System.out.println("더추가해야되");
         System.out.println("더추가해야되");
         System.out.println("더추가해야되");
-        System.out.println("더추가해야되");
+        System.out.println("더추가해야되 ");
         System.out.println("더추가해야되");
     }
 }
